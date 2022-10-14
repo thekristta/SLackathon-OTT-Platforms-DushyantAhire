@@ -1,4 +1,4 @@
-# submission-or-project-name
+# Data Analysis on OTT platforms
 
 A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
 
