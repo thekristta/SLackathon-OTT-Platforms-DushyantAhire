@@ -4,8 +4,8 @@ A basic GitHub repository example for hackathon. You can make this as simple or 
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
-  - [Contents](#contents)
+- [Data Analysis on OTT platforms](#submission-or-project-name)
+  - [OTT Data Analysis.ipynb](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
